@@ -16,22 +16,22 @@ This project aims to build and evaluate a logistic regression model to detect ch
 - Model training and hyperparameter tuning  
 - Evaluation (accuracy, precision, recall, ROC curve, etc.)
 
-## Prerequisites
+## 📋 Prerequisites
 - Python (recommended version: 3.7+)
 - Jupyter Notebook
 - Required Python packages (e.g. pandas, numpy, scikit-learn, matplotlib)
 
-## Running the Notebook
+## ▶️ Running the Notebook
 1. Open the Jupyter Notebook file: `Kidney_disease_classification_problem_PRERIT.ipynb`
 2. Run each cell in order for preprocessing, model training, and evaluation.
 
-## Usage
+## 🛠️ Usage
 Follow the notebook steps for:
 - Loading and exploring the chronic kidney disease dataset
 - Training a logistic regression model
 - Evaluating model accuracy and metrics
 
-## Contact
+## 💬 Contact
 Repository Author: Prerit  
 For questions and support, open an issue on GitHub.
 
@@ -41,4 +41,8 @@ For questions and support, open an issue on GitHub.
 	•	ROC-AUC: (e.g., 0.95, indicating strong discriminative power)
 	•	Challenges: handling missing values, class imbalance, and potential overfitting
 
+## 📌 Summary
+	•	Project: CKD classification using logistic regression
+	•	Highlights: Full ML pipeline from EDA to evaluation; interpretable results for healthcare prediction
+	•	Next steps: Test other models (Decision Trees, Random Forests, SVM, Neural Nets), perform cross-validation, or deploy as a web app
 
