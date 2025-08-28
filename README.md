@@ -15,3 +15,8 @@ This project aims to build and evaluate a logistic regression model to detect ch
 - Feature selection and engineering  
 - Model training and hyperparameter tuning  
 - Evaluation (accuracy, precision, recall, ROC curve, etc.)
+
+## Prerequisites
+- Python (recommended version: 3.7+)
+- Jupyter Notebook
+- Required Python packages (e.g. pandas, numpy, scikit-learn, matplotlib)
